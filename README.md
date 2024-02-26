@@ -27,7 +27,8 @@ O objetivo desse projeto é mostrar de forma resumida que as IAs não estam send
  pelo contrario, para nos proporcionar uma melhor qualidade de vida e nos auxiliar em nosso dia a dia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+TTS maker ( conversão de texto para voz)
+https://ttsmaker.com/br 
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
