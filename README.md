@@ -20,10 +20,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+#  O beneficio das IAs no futuro da vida humana ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O objetivo desse projeto é mostrar de forma resumida que as IAs não estam sendo criadas para substituir o ser humano, pelo contrario, para nos proporcionar uma melhor qualidade de vida e nos auxiliar em nosso dia a dia.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
