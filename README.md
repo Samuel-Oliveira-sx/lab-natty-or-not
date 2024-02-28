@@ -20,21 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-#  O beneficio das IAs no futuro da vida humana ;)
+#  O poder das IAs no nosso dia a dia ;)
 
 ## 📒 Descrição
 O objetivo desse projeto é mostrar de forma resumida que as IAs não estam sendo criadas para substituir o ser humano,
  pelo contrario, para nos proporcionar uma melhor qualidade de vida e nos auxiliar em nosso dia a dia.
 
 ## 🤖 Tecnologias Utilizadas
+Google copilot ( criação do texto e das imagens)
 TTS maker ( conversão de texto para voz)
-https://ttsmaker.com/br 
+https://ttsmaker.com/br
+Clipchamp editor de video( para criação do video e da legenda)
+https://clipchamp.com/pt-br/video-editor/
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+01- Primeiro foi usado o Google Copilot para criação do script do projeto.
+02- Depois que o script foi pronto. Usamos o TTS maker para converter o texto em audio.
+03- Agora com o audio pronto. Usamos o google copilot para a criação das imagens usadas no projeto.
+04 - Depois de ter todos os arquivos necessarios para o desenvolvimento do projeto. Usamos o editor de videos Clipchamp para a criação do video e da legenda.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Aqui vc encontra o projeto completo:
+https://ussbr-my.sharepoint.com/:v:/g/personal/ra202221985_univassouras_edu_br/EWiBbbxMIjpOgwqQz6P_kCoBmxuaAHe-IpKZm2gkqgfNHw?e=gVg9gp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
